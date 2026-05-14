@@ -13,7 +13,7 @@
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietahnn&repo=RAG_Chatbot&theme=radical" />
   </a>
 
-  <a href="[https://github.com/vietahnn/Co2_tsf](https://github.com/vietahnn/DDPM--Impainting)">
+<a href="[https://github.com/vietahnn/Co2_tsf](https://github.com/vietahnn/DDPM--Impainting)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietahnn&repo=DDPM--Impainting&theme=dark" />
   </a>
